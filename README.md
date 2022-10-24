@@ -17,4 +17,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-### Accessible through [https://ec2-18-144-47-156.us-west-1.compute.amazonaws.com/creative-project-3/build/](Here)
+### Accessible through [This Link](https://ec2-18-144-47-156.us-west-1.compute.amazonaws.com/creative-project-3/build/)
