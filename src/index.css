@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav-link {
+    font-size: xx-large;
+    padding: 5px;
+    margin-right: 40px;
+}
+
+.nav-link:hover {
+    border-style: solid;
+    border-color: #344E41;
+    border-width: 2px;
+    background-color: #649263;
+    padding: 4px;
+    margin-right: 36px;
+}
+
+.bg-light {
+    background-color: #48704F !important;
+}
+
+#titlelogo {
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 17px;
+  margin-bottom: 17px;
+}
+
+.navbar-toggler {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.homepage {
+  justify-content:center;
+}
