@@ -46,3 +46,54 @@ code {
 .homepage {
   justify-content:center;
 }
+
+hr {
+  width: 50%;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.homepage h1 {
+  font-size: 60px;
+  margin: 20px;
+}
+
+.homepage col {
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+}
+
+#homeimage {
+  padding: 35px;
+}
+
+#homep {
+  padding: 35px;
+  height: 60%;
+  
+}
+
+#homex {
+  padding: 35px;
+}
+
+#homey {
+  height: 100%;
+}
+#homey3 {
+  height: 100%;
+  padding-bottom: 275px;
+}
+
+footer {
+  position: fixed;
+  bottom:0;
+  left: 0;
+  right:0;
+  background-color: #48704F;
+  color: #A3B18A;
+}
+
+#homex center h3 {
+  padding-top: 100px;
+}
